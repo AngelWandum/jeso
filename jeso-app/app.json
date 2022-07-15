@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jeso-app",
+    "slug": "jeso-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jeso-app"
+}
