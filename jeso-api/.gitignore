@@ -20,4 +20,4 @@ buck-out/
 # Bundle artifacts
 *.jsbundle
 
-node_modules
+node_modules/
